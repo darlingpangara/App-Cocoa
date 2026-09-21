@@ -1,0 +1,6 @@
+{
+  "name": "Estimasi Produksi Kakao",
+  "description": "Aplikasi Estimasi Produksi (Yield Estimation) Kebun Kakao dengan data petani, 5 tahap kalkulasi sampel pohon produktif, dan fitur import/export excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
